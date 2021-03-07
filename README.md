@@ -19,8 +19,7 @@ I'm Kaushal Rohit
 - Working on my personal website
 
 ### Reach out to me at:
-- [<img alt="Kaushal Rohit | LinkedIN" width="20px" src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/icons8-linkedin.svg"/>](https://www.linkedin.com/in/kaushal-g-rohit/), [<img  alt="Kaushal's Twitter" width="20px" src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/icons8-twitter.svg" />
-](https://twitter.com/rohit_kg98), 📫: rohit.kg98@gmail.com
+- [<img alt="Kaushal Rohit | LinkedIN" width="20px" src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/icons8-linkedin.svg"/>](https://www.linkedin.com/in/kaushal-g-rohit/)  [<img  alt="Kaushal's Twitter" width="20px" src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/icons8-twitter.svg" />](https://twitter.com/rohit_kg98)  📫: rohit.kg98@gmail.com
 
 ### Like my work?
 [![](https://img.shields.io/static/v1?label=Buy%20Me%20A%20Coffee&message=Donate&style=for-the-badge)](https://rzp.io/l/SxppXXjDnE)
