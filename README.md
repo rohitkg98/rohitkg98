@@ -7,16 +7,14 @@ I'm Kaushal Rohit
 
 ### Skills
 
-- Python, ReasonML, OCaml, Java and other languages
+- Java, Kotlin, Python and JavaScript
 - Docker (deployment, development & more)
 - Web and Systems Development
-- Factorio
+- Factorio [Deprecated]
 
 ### Ongoing Projects
 
-- SICP - Reading and solving the exercises
-- Contributing to Esy, and ReasonML ecosystem
-- Working on my personal website
+- Only work projects at the moment, but I feel like I'm getting a spark of creativity, maybe this section shall be filled soon.
 
 ### Reach out to me at:
 - [<img alt="Kaushal Rohit | LinkedIN" width="20px" src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/icons8-linkedin.svg"/>](https://www.linkedin.com/in/kaushal-g-rohit/)  [<img  alt="Kaushal's Twitter" width="20px" src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/icons8-twitter.svg" />](https://twitter.com/rohitkg98)  📫: rohit.kg98@gmail.com
